@@ -99,4 +99,5 @@ function meilleurEleve(liste) {
   }
   return meilleure;
 }
-console.log(meilleurEleve(eleves));
+eleves.push({ nom: "Kadiatou", note: 18 });
+console.log(meilleurEleve(eleves).nom);
