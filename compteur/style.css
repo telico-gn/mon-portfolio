@@ -1,0 +1,26 @@
+section {
+  margin: 50px;
+  text-align: center;
+  font-family: arial;
+}
+button {
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 5px 8px;
+  box-shadow: 2px gray;
+  border: white solid;
+}
+
+#plus {
+  background-color: blue;
+  color: blanchedalmond;
+}
+#moins {
+  background-color: darkorange;
+  color: white;
+}
+#zero {
+  background-color: gray;
+  color: black;
+}
