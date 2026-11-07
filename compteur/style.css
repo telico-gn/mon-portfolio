@@ -4,8 +4,9 @@ section {
   font-family: arial;
 }
 button {
-  margin: 10px;
-  font-size: 20px;
+  padding: 10px;
+  margin: 5px;
+  font-size: 30px;
   text-align: center;
   border-radius: 5px 8px;
   box-shadow: 2px gray;
@@ -22,5 +23,9 @@ button {
 }
 #zero {
   background-color: gray;
-  color: black;
+  color: white;
+}
+#notification {
+  color: red;
+  font-size: 12px;
 }
