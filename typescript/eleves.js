@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var eleves = [
     { nom: "Hawa", note: 15 },
     { nom: "Moussa", note: 9 },
