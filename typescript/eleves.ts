@@ -1,3 +1,4 @@
+export {};
 interface Eleve {
   nom: string;
   note: number;
